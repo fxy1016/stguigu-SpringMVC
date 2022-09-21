@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/spring_mvc_ajax/target/
+/spring_mvc_demo/target/
+/spring_mvc_extension/target/
+/ssm/target/
